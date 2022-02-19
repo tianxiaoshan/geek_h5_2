@@ -1,0 +1,9 @@
+export const code = 'sms/codes/';
+export const login = '/authorizations';
+export const profile = '/user';
+export const user = '/user/profile';
+export const edituserinfo = '/user/profile';
+export const uploadphoto = 'user/photo';
+export const userchannels = 'user/channels';
+export const allchannels = 'channels';
+export const delchannels = 'user/channels/';
